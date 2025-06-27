@@ -27,9 +27,8 @@ This UI is a conceptual design and does not include backend functionality or cod
 ## 👤 Author
 
 **Rajasri S**  
-B.Tech Information Technology  
-UI/UX Designer & Developer  
-[LinkedIn](https://www.linkedin.com/in/your-username/) | [GitHub](https://github.com/your-username)
+B.Tech Information Technology   
+[LinkedIn](https://www.linkedin.com/in/rajasri-sampath-kumar-892046296/) | [GitHub](https://github.com/Rajasri-1406)
 
 
 ---
