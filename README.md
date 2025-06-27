@@ -9,19 +9,27 @@ A responsive Figma UI prototype for the **EduChamp** digital marketing platform.
 
 ## 🎯 Features
 
-- 📱 Mobile & 💻 Desktop responsive layouts
-- ⚙️ Optimized components for marketing workflows
-- 🧭 UX improvements for intuitive navigation
-- 📊 Better visibility into analytics and performance tracking
-
+- 📱 Mobile & 💻 Desktop responsive layouts  
+- ⚙️ Optimized components for marketing workflows  
+- 🧭 UX improvements for intuitive navigation  
+- 📊 Better visibility into analytics and performance tracking  
 
 ## 🔗 Figma Prototype
 
-> *(https://www.figma.com/proto/lRvwiExOLq8NjszOAt8J1k/ELearning--Copy-?node-id=2167-4708&starting-point-node-id=2167%3A4708)*
+[View the Figma Design](https://www.figma.com/proto/lRvwiExOLq8NjszOAt8J1k/ELearning--Copy-?node-id=2167-4708&starting-point-node-id=2167%3A4708)
+
+## 📌 Note
+
+This UI is a conceptual design and does not include backend functionality or code implementation. For demonstration and prototyping purposes only.
 
 ---
 
-### 📌 Note
+## 👤 Author
 
-This UI is a conceptual design and does not include backend functionality or code implementation. For demonstration and prototyping purposes only.
+**Rajasri S**  
+B.Tech Information Technology  
+UI/UX Designer & Developer  
+[LinkedIn](https://www.linkedin.com/in/rajasri-sampath-kumar-892046296/) | [GitHub](#) *(https://github.com/Rajasri-1406)*
+
+---
 
